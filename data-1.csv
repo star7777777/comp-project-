@@ -1,7 +1,3 @@
-Probability of Developing Cancer
-By Cancer Site
-All Ages  All Races  Both Sexes
-2013-2015 
 
 "Cancer Site","Cancer Free Age","Probability of Developing Cancer (%) by Age","Risk"
 "All Sites","Age 0","Age <br/>5",0.107
@@ -804,10 +800,3 @@ All Ages  All Races  Both Sexes
 "Lung and Bronchus","Age 95","Age <br/>90",
 "Lung and Bronchus","Age 95","Age <br/>95",
 "Lung and Bronchus","Age 95","Age <br/>95+",0.739
-
-
-"Cancer sites include invasive cases only unless otherwise noted."
-
-"Source: Underlying Incidence data are from the SEER 18 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, Atlanta, San Jose-Monterey, Los Angeles, Alaska Native Registry, Rural Georgia, California excluding SF/SJM/LA, Kentucky, Louisiana, New Jersey and Georgia excluding ATL/RG).\
-Rates are calculated using DevCan Version 6.7, April 2018, National Cancer Institute (http://surveillance.cancer.gov/devcan/)."
-
