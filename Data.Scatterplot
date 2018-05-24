@@ -1,0 +1,8 @@
+#Scatter plot. To work on later.
+
+plot(
+formula=y~x,
+data=dattbl,
+col=”darkblue”,
+pch=20,
+main="Insert Title Here"
