@@ -1,0 +1,8 @@
+#This is creating a histogram for the data table titled Dattbl.
+#Please replace any and all instances of Dattbl before turning in the code. Thx :)
+
+hist(Dattbl,
+    main="Histogram for Dattbl",
+    xlab="dattbl$x"
+    col="red"
+    )
