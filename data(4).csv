@@ -1,0 +1,23 @@
+Relative Survival By Survival Time
+By Cancer Site
+All Ages  All Races  Both Sexes
+1988-2014 
+
+"Cancer Site","Survival Interval (Years)","Rate"
+"Lung and Bronchus","0",100.0
+"Lung and Bronchus","1",42.3
+"Lung and Bronchus","2",27.5
+"Lung and Bronchus","3",21.6
+"Lung and Bronchus","4",18.5
+"Lung and Bronchus","5",16.4
+"Lung and Bronchus","6",14.9
+"Lung and Bronchus","7",13.7
+"Lung and Bronchus","8",12.7
+"Lung and Bronchus","9",11.8
+"Lung and Bronchus","10",11.0
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"The annual survival estimates are calculated using monthly intervals."
+
