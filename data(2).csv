@@ -1,9 +1,4 @@
-Probability of Dying from Cancer
-By Cancer Site
-All Ages  All Races  Both Sexes
-2013-2015 
-
-"Cancer Site","&nbsp;&nbsp;&nbsp;Age&nbsp;&nbsp;","Probability of Dying from Cancer (%) by Age","Risk"
+"Cancer Site","Age","Probability of Dying from Cancer (%) by Age","Risk"
 "Lung and Bronchus","Age 0","Age <br/>5",0.000
 "Lung and Bronchus","Age 0","Age <br/>10",0.000
 "Lung and Bronchus","Age 0","Age <br/>15",0.000
@@ -404,10 +399,3 @@ All Ages  All Races  Both Sexes
 "Lung and Bronchus","Age 95","Age <br/>90",
 "Lung and Bronchus","Age 95","Age <br/>95",
 "Lung and Bronchus","Age 95","Age <br/>95+",0.847
-
-
-"Cancer sites include invasive cases only unless otherwise noted."
-
-"Source: Underlying Mortality data are from the NCHS public use data file for the total US. \
-Rates are calculated using DevCan Version 6.7, April 2018, National Cancer Institute (http://surveillance.cancer.gov/devcan/)."
-
