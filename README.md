@@ -1,5 +1,7 @@
 # comp-project-
-This is for the 2018 Computer Science.
+This is for the 2018 Computer Science Fair.
+
+Please note that some of the code may be faulty due to the inability to put data sets into RStudio.
 
 Data obtained from: https://seer.cancer.gov/faststats/selections.php?series=cancer
 
