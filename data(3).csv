@@ -1,0 +1,30 @@
+Age-Adjusted U.S. Mortality Rates
+By Cancer Site
+All Ages  All Races  Both Sexes
+2000-2015 
+
+"Cancer Site","Year","Rate","Modeled Rate"
+"Lung and Bronchus","2000",55.8462,55.9708
+"Lung and Bronchus","2001",55.3190,55.3515
+"Lung and Bronchus","2002",55.0017,54.7391
+"Lung and Bronchus","2003",54.1912,54.1335
+"Lung and Bronchus","2004",53.3657,53.5346
+"Lung and Bronchus","2005",52.8526,52.9423
+"Lung and Bronchus","2006",51.7263,51.7684
+"Lung and Bronchus","2007",50.7100,50.6206
+"Lung and Bronchus","2008",49.5885,49.4981
+"Lung and Bronchus","2009",48.4123,48.4006
+"Lung and Bronchus","2010",47.4181,47.3274
+"Lung and Bronchus","2011",46.0028,46.2780
+"Lung and Bronchus","2012",44.9404,44.8298
+"Lung and Bronchus","2013",43.4416,43.4269
+"Lung and Bronchus","2014",42.2010,42.0679
+"Lung and Bronchus","2015",40.6211,40.7515
+
+
+"Cancer sites include invasive cases only unless otherwise noted."
+
+"Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute."
+
+"Mortality source: US Mortality Files, National Center for Health Statistics, CDC."
+
