@@ -2,8 +2,9 @@
 #Generally, Histograms are used for showing how much data each individual independent value will have.
 #Please replace any and all instances of Dattbl before turning in the code. Thx :)
 
+Dattbl<-#Insert Data Here#
 hist(Dattbl,
     main="Histogram for Dattbl",
-    xlab="dattbl$x"
+    xlab="Dattbl$x"
     col="red"
     )
