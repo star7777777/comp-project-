@@ -1,6 +1,7 @@
 #Boxplots show where clumps of data are and if any outliers exist.
-dattbl<-L&B.Prob
-
+path<-file.choose()
+dattbl<-read.csv(path)
+View(dattbl)
 boxplot(Risk~Age,
         data=dattbl,
         main="Risk of Developing Cancer",
