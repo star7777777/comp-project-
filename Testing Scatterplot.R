@@ -1,9 +1,11 @@
 #dattbl <- L&B.Prob(NA.Remove=TRUE)
 path<-file.choose()
-dattbl<-(read.csv(path))
-NA.Remove=TRUE
+dattbl<-(read.csv(path)
+         )
+
 View(dattbl)
 plot(
+
   "Cancer.Free.Age","Risk",
   col=darkblue,
   pch=20,
