@@ -1,3 +1,0 @@
-path<-file.choose('L.B.Mortality.Rates')
-MR<-read.csv(path)
-View(MR)
