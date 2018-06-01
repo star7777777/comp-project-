@@ -11,4 +11,4 @@ s3d<-scatterplot3d(dattbl[,2:4],
               ylab="Probablility of Dying from Cancer",
               zlab="Risk",
               main="Probability of Dying from Cancer for Each Age Group",
-              angle=15)
+              angle=45)
