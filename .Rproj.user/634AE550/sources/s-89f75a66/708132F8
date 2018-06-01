@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527458932670.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "477467932",
+    "id" : "708132F8",
+    "lastKnownWriteTime" : 1527889228,
+    "last_content_update" : 1527889228512,
+    "path" : "~/TEST/comp-project-/Testing Boxplot.R",
+    "project_path" : "Testing Boxplot.R",
+    "properties" : {
+        "cursorPosition" : "4,25",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

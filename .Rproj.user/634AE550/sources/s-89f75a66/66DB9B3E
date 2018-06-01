@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527542710650.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "66DB9B3E",
+    "lastKnownWriteTime" : 1527822208,
+    "last_content_update" : 1527822208304,
+    "path" : "~/TEST/comp-project-/Testing Histogram.R",
+    "project_path" : "Testing Histogram.R",
+    "properties" : {
+        "cursorPosition" : "8,14",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

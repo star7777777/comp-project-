@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527542763454.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "433BC1BA",
+    "lastKnownWriteTime" : 1527821625,
+    "last_content_update" : 1527821625281,
+    "path" : "~/TEST/comp-project-/Testing Scatterplot.R",
+    "project_path" : "Testing Scatterplot.R",
+    "properties" : {
+        "cursorPosition" : "9,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527773959726.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "946555D4",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1527773959726,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9587D20B",
+        "caption" : "dattbl",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dattbl&cache_key=9587D20B",
+        "displayedObservations" : "400",
+        "environment" : "",
+        "object" : "dattbl",
+        "preview" : "0",
+        "totalObservations" : "400",
+        "variables" : "4"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

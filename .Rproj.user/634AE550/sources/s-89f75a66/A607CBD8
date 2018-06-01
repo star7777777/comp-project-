@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1527638544961.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A607CBD8",
+    "lastKnownWriteTime" : 1527821281,
+    "last_content_update" : 1527821281257,
+    "path" : "~/TEST/comp-project-/Testing 3D Scatterplot.R",
+    "project_path" : "Testing 3D Scatterplot.R",
+    "properties" : {
+        "cursorPosition" : "8,28",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
