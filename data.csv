@@ -1,185 +1,185 @@
 
 "Cancer Site","Cancer Free Age","Probability of Developing Cancer (%) by Age","Risk"
-"Lung and Bronchus",0,"Age <br/>5",0.000
-"Lung and Bronchus",0,"Age <br/>10",0.001
-"Lung and Bronchus",0,"Age <br/>15",0.001
-"Lung and Bronchus",0,"Age <br/>20",0.002
-"Lung and Bronchus",0,"Age <br/>25",0.003
-"Lung and Bronchus",0,"Age <br/>30",0.006
-"Lung and Bronchus",0,"Age <br/>35",0.012
-"Lung and Bronchus",0,"Age <br/>40",0.026
-"Lung and Bronchus",0,"Age <br/>45",0.059
-"Lung and Bronchus",0,"Age <br/>50",0.144
-"Lung and Bronchus",0,"Age <br/>55",0.342
-"Lung and Bronchus",0,"Age <br/>60",0.706
-"Lung and Bronchus",0,"Age <br/>65",1.268
-"Lung and Bronchus",0,"Age <br/>70",2.108
-"Lung and Bronchus",0,"Age <br/>75",3.208
-"Lung and Bronchus",0,"Age <br/>80",4.366
-"Lung and Bronchus",0,"Age <br/>85",5.334
-"Lung and Bronchus",0,"Age <br/>90",5.926
-"Lung and Bronchus",0,"Age <br/>95",6.158
-"Lung and Bronchus",0,"Age <br/>95+",6.241
-"Lung and Bronchus",5,"Age <br/>5",
-"Lung and Bronchus",5,"Age <br/>10",0.000
-"Lung and Bronchus",5,"Age <br/>15",0.001
-"Lung and Bronchus",5,"Age <br/>20",0.001
-"Lung and Bronchus",5,"Age <br/>25",0.003
-"Lung and Bronchus",5,"Age <br/>30",0.005
-"Lung and Bronchus",5,"Age <br/>35",0.012
-"Lung and Bronchus",5,"Age <br/>40",0.026
-"Lung and Bronchus",5,"Age <br/>45",0.059
-"Lung and Bronchus",5,"Age <br/>50",0.145
-"Lung and Bronchus",5,"Age <br/>55",0.345
-"Lung and Bronchus",5,"Age <br/>60",0.713
-"Lung and Bronchus",5,"Age <br/>65",1.280
-"Lung and Bronchus",5,"Age <br/>70",2.129
-"Lung and Bronchus",5,"Age <br/>75",3.240
-"Lung and Bronchus",5,"Age <br/>80",4.410
-"Lung and Bronchus",5,"Age <br/>85",5.388
-"Lung and Bronchus",5,"Age <br/>90",5.985
-"Lung and Bronchus",5,"Age <br/>95",6.220
-"Lung and Bronchus",5,"Age <br/>95+",6.304
-"Lung and Bronchus",10,"Age <br/>5",
-"Lung and Bronchus",10,"Age <br/>10",
-"Lung and Bronchus",10,"Age <br/>15",0.000
-"Lung and Bronchus",10,"Age <br/>20",0.001
-"Lung and Bronchus",10,"Age <br/>25",0.002
-"Lung and Bronchus",10,"Age <br/>30",0.005
-"Lung and Bronchus",10,"Age <br/>35",0.011
-"Lung and Bronchus",10,"Age <br/>40",0.025
-"Lung and Bronchus",10,"Age <br/>45",0.059
-"Lung and Bronchus",10,"Age <br/>50",0.145
-"Lung and Bronchus",10,"Age <br/>55",0.346
-"Lung and Bronchus",10,"Age <br/>60",0.713
-"Lung and Bronchus",10,"Age <br/>65",1.281
-"Lung and Bronchus",10,"Age <br/>70",2.130
-"Lung and Bronchus",10,"Age <br/>75",3.241
-"Lung and Bronchus",10,"Age <br/>80",4.412
-"Lung and Bronchus",10,"Age <br/>85",5.391
-"Lung and Bronchus",10,"Age <br/>90",5.989
-"Lung and Bronchus",10,"Age <br/>95",6.224
-"Lung and Bronchus",10,"Age <br/>95+",6.308
-"Lung and Bronchus",15,"Age <br/>5",
-"Lung and Bronchus",15,"Age <br/>10",
-"Lung and Bronchus",15,"Age <br/>15",
-"Lung and Bronchus",15,"Age <br/>20",0.001
-"Lung and Bronchus",15,"Age <br/>25",0.002
-"Lung and Bronchus",15,"Age <br/>30",0.005
-"Lung and Bronchus",15,"Age <br/>35",0.011
-"Lung and Bronchus",15,"Age <br/>40",0.025
-"Lung and Bronchus",15,"Age <br/>45",0.059
-"Lung and Bronchus",15,"Age <br/>50",0.145
-"Lung and Bronchus",15,"Age <br/>55",0.345
-"Lung and Bronchus",15,"Age <br/>60",0.713
-"Lung and Bronchus",15,"Age <br/>65",1.282
-"Lung and Bronchus",15,"Age <br/>70",2.132
-"Lung and Bronchus",15,"Age <br/>75",3.244
-"Lung and Bronchus",15,"Age <br/>80",4.416
-"Lung and Bronchus",15,"Age <br/>85",5.395
-"Lung and Bronchus",15,"Age <br/>90",5.993
-"Lung and Bronchus",15,"Age <br/>95",6.229
-"Lung and Bronchus",15,"Age <br/>95+",6.313
-"Lung and Bronchus",20,"Age <br/>5",
-"Lung and Bronchus",20,"Age <br/>10",
-"Lung and Bronchus",20,"Age <br/>15",
-"Lung and Bronchus",20,"Age <br/>20",
-"Lung and Bronchus",20,"Age <br/>25",0.002
-"Lung and Bronchus",20,"Age <br/>30",0.004
-"Lung and Bronchus",20,"Age <br/>35",0.010
-"Lung and Bronchus",20,"Age <br/>40",0.025
-"Lung and Bronchus",20,"Age <br/>45",0.058
-"Lung and Bronchus",20,"Age <br/>50",0.144
-"Lung and Bronchus",20,"Age <br/>55",0.346
-"Lung and Bronchus",20,"Age <br/>60",0.714
-"Lung and Bronchus",20,"Age <br/>65",1.284
-"Lung and Bronchus",20,"Age <br/>70",2.136
-"Lung and Bronchus",20,"Age <br/>75",3.250
-"Lung and Bronchus",20,"Age <br/>80",4.425
-"Lung and Bronchus",20,"Age <br/>85",5.406
-"Lung and Bronchus",20,"Age <br/>90",6.006
-"Lung and Bronchus",20,"Age <br/>95",6.242
-"Lung and Bronchus",20,"Age <br/>95+",6.326
-"Lung and Bronchus",25,"Age <br/>5",
-"Lung and Bronchus",25,"Age <br/>10",
-"Lung and Bronchus",25,"Age <br/>15",
-"Lung and Bronchus",25,"Age <br/>20",
-"Lung and Bronchus",25,"Age <br/>25",
-"Lung and Bronchus",25,"Age <br/>30",0.003
-"Lung and Bronchus",25,"Age <br/>35",0.009
-"Lung and Bronchus",25,"Age <br/>40",0.023
-"Lung and Bronchus",25,"Age <br/>45",0.057
-"Lung and Bronchus",25,"Age <br/>50",0.143
-"Lung and Bronchus",25,"Age <br/>55",0.346
-"Lung and Bronchus",25,"Age <br/>60",0.716
-"Lung and Bronchus",25,"Age <br/>65",1.287
-"Lung and Bronchus",25,"Age <br/>70",2.143
-"Lung and Bronchus",25,"Age <br/>75",3.262
-"Lung and Bronchus",25,"Age <br/>80",4.441
-"Lung and Bronchus",25,"Age <br/>85",5.426
-"Lung and Bronchus",25,"Age <br/>90",6.028
-"Lung and Bronchus",25,"Age <br/>95",6.265
-"Lung and Bronchus",25,"Age <br/>95+",6.350
-"Lung and Bronchus",30,"Age <br/>5",
-"Lung and Bronchus",30,"Age <br/>10",
-"Lung and Bronchus",30,"Age <br/>15",
-"Lung and Bronchus",30,"Age <br/>20",
-"Lung and Bronchus",30,"Age <br/>25",
-"Lung and Bronchus",30,"Age <br/>30",
-"Lung and Bronchus",30,"Age <br/>35",0.006
-"Lung and Bronchus",30,"Age <br/>40",0.020
-"Lung and Bronchus",30,"Age <br/>45",0.054
-"Lung and Bronchus",30,"Age <br/>50",0.141
-"Lung and Bronchus",30,"Age <br/>55",0.344
-"Lung and Bronchus",30,"Age <br/>60",0.716
-"Lung and Bronchus",30,"Age <br/>65",1.291
-"Lung and Bronchus",30,"Age <br/>70",2.150
-"Lung and Bronchus",30,"Age <br/>75",3.274
-"Lung and Bronchus",30,"Age <br/>80",4.459
-"Lung and Bronchus",30,"Age <br/>85",5.449
-"Lung and Bronchus",30,"Age <br/>90",6.054
-"Lung and Bronchus",30,"Age <br/>95",6.292
-"Lung and Bronchus",30,"Age <br/>95+",6.377
-"Lung and Bronchus",35,"Age <br/>5",
-"Lung and Bronchus",35,"Age <br/>10",
-"Lung and Bronchus",35,"Age <br/>15",
-"Lung and Bronchus",35,"Age <br/>20",
-"Lung and Bronchus",35,"Age <br/>25",
-"Lung and Bronchus",35,"Age <br/>30",
-"Lung and Bronchus",35,"Age <br/>35",
-"Lung and Bronchus",35,"Age <br/>40",0.014
-"Lung and Bronchus",35,"Age <br/>45",0.048
-"Lung and Bronchus",35,"Age <br/>50",0.136
-"Lung and Bronchus",35,"Age <br/>55",0.340
-"Lung and Bronchus",35,"Age <br/>60",0.714
-"Lung and Bronchus",35,"Age <br/>65",1.292
-"Lung and Bronchus",35,"Age <br/>70",2.156
-"Lung and Bronchus",35,"Age <br/>75",3.286
-"Lung and Bronchus",35,"Age <br/>80",4.478
-"Lung and Bronchus",35,"Age <br/>85",5.473
-"Lung and Bronchus",35,"Age <br/>90",6.082
-"Lung and Bronchus",35,"Age <br/>95",6.321
-"Lung and Bronchus",35,"Age <br/>95+",6.406
-"Lung and Bronchus",40,"Age <br/>5",
-"Lung and Bronchus",40,"Age <br/>10",
-"Lung and Bronchus",40,"Age <br/>15",
-"Lung and Bronchus",40,"Age <br/>20",
-"Lung and Bronchus",40,"Age <br/>25",
-"Lung and Bronchus",40,"Age <br/>30",
-"Lung and Bronchus",40,"Age <br/>35",
-"Lung and Bronchus",40,"Age <br/>40",
-"Lung and Bronchus",40,"Age <br/>45",0.034
-"Lung and Bronchus",40,"Age <br/>50",0.122
-"Lung and Bronchus",40,"Age <br/>55",0.328
-"Lung and Bronchus",40,"Age <br/>60",0.705
-"Lung and Bronchus",40,"Age <br/>65",1.286
-"Lung and Bronchus",40,"Age <br/>70",2.157
-"Lung and Bronchus",40,"Age <br/>75",3.295
-"Lung and Bronchus",40,"Age <br/>80",4.495
-"Lung and Bronchus",40,"Age <br/>85",5.498
-"Lung and Bronchus",40,"Age <br/>90",6.110
-"Lung and Bronchus",40,"Age <br/>95",6.351
-"Lung and Bronchus",40,"Age <br/>95+",6.437
+"Lung and Bronchus","Age 0","Age <br/>5",0.000
+"Lung and Bronchus","Age 0","Age <br/>10",0.001
+"Lung and Bronchus","Age 0","Age <br/>15",0.001
+"Lung and Bronchus","Age 0","Age <br/>20",0.002
+"Lung and Bronchus","Age 0","Age <br/>25",0.003
+"Lung and Bronchus","Age 0","Age <br/>30",0.006
+"Lung and Bronchus","Age 0","Age <br/>35",0.012
+"Lung and Bronchus","Age 0","Age <br/>40",0.026
+"Lung and Bronchus","Age 0","Age <br/>45",0.059
+"Lung and Bronchus","Age 0","Age <br/>50",0.144
+"Lung and Bronchus","Age 0","Age <br/>55",0.342
+"Lung and Bronchus","Age 0","Age <br/>60",0.706
+"Lung and Bronchus","Age 0","Age <br/>65",1.268
+"Lung and Bronchus","Age 0","Age <br/>70",2.108
+"Lung and Bronchus","Age 0","Age <br/>75",3.208
+"Lung and Bronchus","Age 0","Age <br/>80",4.366
+"Lung and Bronchus","Age 0","Age <br/>85",5.334
+"Lung and Bronchus","Age 0","Age <br/>90",5.926
+"Lung and Bronchus","Age 0","Age <br/>95",6.158
+"Lung and Bronchus","Age 0","Age <br/>95+",6.241
+"Lung and Bronchus","Age 5","Age <br/>5",
+"Lung and Bronchus","Age 5","Age <br/>10",0.000
+"Lung and Bronchus","Age 5","Age <br/>15",0.001
+"Lung and Bronchus","Age 5","Age <br/>20",0.001
+"Lung and Bronchus","Age 5","Age <br/>25",0.003
+"Lung and Bronchus","Age 5","Age <br/>30",0.005
+"Lung and Bronchus","Age 5","Age <br/>35",0.012
+"Lung and Bronchus","Age 5","Age <br/>40",0.026
+"Lung and Bronchus","Age 5","Age <br/>45",0.059
+"Lung and Bronchus","Age 5","Age <br/>50",0.145
+"Lung and Bronchus","Age 5","Age <br/>55",0.345
+"Lung and Bronchus","Age 5","Age <br/>60",0.713
+"Lung and Bronchus","Age 5","Age <br/>65",1.280
+"Lung and Bronchus","Age 5","Age <br/>70",2.129
+"Lung and Bronchus","Age 5","Age <br/>75",3.240
+"Lung and Bronchus","Age 5","Age <br/>80",4.410
+"Lung and Bronchus","Age 5","Age <br/>85",5.388
+"Lung and Bronchus","Age 5","Age <br/>90",5.985
+"Lung and Bronchus","Age 5","Age <br/>95",6.220
+"Lung and Bronchus","Age 5","Age <br/>95+",6.304
+"Lung and Bronchus","Age 10","Age <br/>5",
+"Lung and Bronchus","Age 10","Age <br/>10",
+"Lung and Bronchus","Age 10","Age <br/>15",0.000
+"Lung and Bronchus","Age 10","Age <br/>20",0.001
+"Lung and Bronchus","Age 10","Age <br/>25",0.002
+"Lung and Bronchus","Age 10","Age <br/>30",0.005
+"Lung and Bronchus","Age 10","Age <br/>35",0.011
+"Lung and Bronchus","Age 10","Age <br/>40",0.025
+"Lung and Bronchus","Age 10","Age <br/>45",0.059
+"Lung and Bronchus","Age 10","Age <br/>50",0.145
+"Lung and Bronchus","Age 10","Age <br/>55",0.346
+"Lung and Bronchus","Age 10","Age <br/>60",0.713
+"Lung and Bronchus","Age 10","Age <br/>65",1.281
+"Lung and Bronchus","Age 10","Age <br/>70",2.130
+"Lung and Bronchus","Age 10","Age <br/>75",3.241
+"Lung and Bronchus","Age 10","Age <br/>80",4.412
+"Lung and Bronchus","Age 10","Age <br/>85",5.391
+"Lung and Bronchus","Age 10","Age <br/>90",5.989
+"Lung and Bronchus","Age 10","Age <br/>95",6.224
+"Lung and Bronchus","Age 10","Age <br/>95+",6.308
+"Lung and Bronchus","Age 15","Age <br/>5",
+"Lung and Bronchus","Age 15","Age <br/>10",
+"Lung and Bronchus","Age 15","Age <br/>15",
+"Lung and Bronchus","Age 15","Age <br/>20",0.001
+"Lung and Bronchus","Age 15","Age <br/>25",0.002
+"Lung and Bronchus","Age 15","Age <br/>30",0.005
+"Lung and Bronchus","Age 15","Age <br/>35",0.011
+"Lung and Bronchus","Age 15","Age <br/>40",0.025
+"Lung and Bronchus","Age 15","Age <br/>45",0.059
+"Lung and Bronchus","Age 15","Age <br/>50",0.145
+"Lung and Bronchus","Age 15","Age <br/>55",0.345
+"Lung and Bronchus","Age 15","Age <br/>60",0.713
+"Lung and Bronchus","Age 15","Age <br/>65",1.282
+"Lung and Bronchus","Age 15","Age <br/>70",2.132
+"Lung and Bronchus","Age 15","Age <br/>75",3.244
+"Lung and Bronchus","Age 15","Age <br/>80",4.416
+"Lung and Bronchus","Age 15","Age <br/>85",5.395
+"Lung and Bronchus","Age 15","Age <br/>90",5.993
+"Lung and Bronchus","Age 15","Age <br/>95",6.229
+"Lung and Bronchus","Age 15","Age <br/>95+",6.313
+"Lung and Bronchus","Age 20","Age <br/>5",
+"Lung and Bronchus","Age 20","Age <br/>10",
+"Lung and Bronchus","Age 20","Age <br/>15",
+"Lung and Bronchus","Age 20","Age <br/>20",
+"Lung and Bronchus","Age 20","Age <br/>25",0.002
+"Lung and Bronchus","Age 20","Age <br/>30",0.004
+"Lung and Bronchus","Age 20","Age <br/>35",0.010
+"Lung and Bronchus","Age 20","Age <br/>40",0.025
+"Lung and Bronchus","Age 20","Age <br/>45",0.058
+"Lung and Bronchus","Age 20","Age <br/>50",0.144
+"Lung and Bronchus","Age 20","Age <br/>55",0.346
+"Lung and Bronchus","Age 20","Age <br/>60",0.714
+"Lung and Bronchus","Age 20","Age <br/>65",1.284
+"Lung and Bronchus","Age 20","Age <br/>70",2.136
+"Lung and Bronchus","Age 20","Age <br/>75",3.250
+"Lung and Bronchus","Age 20","Age <br/>80",4.425
+"Lung and Bronchus","Age 20","Age <br/>85",5.406
+"Lung and Bronchus","Age 20","Age <br/>90",6.006
+"Lung and Bronchus","Age 20","Age <br/>95",6.242
+"Lung and Bronchus","Age 20","Age <br/>95+",6.326
+"Lung and Bronchus","Age 25","Age <br/>5",
+"Lung and Bronchus","Age 25","Age <br/>10",
+"Lung and Bronchus","Age 25","Age <br/>15",
+"Lung and Bronchus","Age 25","Age <br/>20",
+"Lung and Bronchus","Age 25","Age <br/>25",
+"Lung and Bronchus","Age 25","Age <br/>30",0.003
+"Lung and Bronchus","Age 25","Age <br/>35",0.009
+"Lung and Bronchus","Age 25","Age <br/>40",0.023
+"Lung and Bronchus","Age 25","Age <br/>45",0.057
+"Lung and Bronchus","Age 25","Age <br/>50",0.143
+"Lung and Bronchus","Age 25","Age <br/>55",0.346
+"Lung and Bronchus","Age 25","Age <br/>60",0.716
+"Lung and Bronchus","Age 25","Age <br/>65",1.287
+"Lung and Bronchus","Age 25","Age <br/>70",2.143
+"Lung and Bronchus","Age 25","Age <br/>75",3.262
+"Lung and Bronchus","Age 25","Age <br/>80",4.441
+"Lung and Bronchus","Age 25","Age <br/>85",5.426
+"Lung and Bronchus","Age 25","Age <br/>90",6.028
+"Lung and Bronchus","Age 25","Age <br/>95",6.265
+"Lung and Bronchus","Age 25","Age <br/>95+",6.350
+"Lung and Bronchus","Age 30","Age <br/>5",
+"Lung and Bronchus","Age 30","Age <br/>10",
+"Lung and Bronchus","Age 30","Age <br/>15",
+"Lung and Bronchus","Age 30","Age <br/>20",
+"Lung and Bronchus","Age 30","Age <br/>25",
+"Lung and Bronchus","Age 30","Age <br/>30",
+"Lung and Bronchus","Age 30","Age <br/>35",0.006
+"Lung and Bronchus","Age 30","Age <br/>40",0.020
+"Lung and Bronchus","Age 30","Age <br/>45",0.054
+"Lung and Bronchus","Age 30","Age <br/>50",0.141
+"Lung and Bronchus","Age 30","Age <br/>55",0.344
+"Lung and Bronchus","Age 30","Age <br/>60",0.716
+"Lung and Bronchus","Age 30","Age <br/>65",1.291
+"Lung and Bronchus","Age 30","Age <br/>70",2.150
+"Lung and Bronchus","Age 30","Age <br/>75",3.274
+"Lung and Bronchus","Age 30","Age <br/>80",4.459
+"Lung and Bronchus","Age 30","Age <br/>85",5.449
+"Lung and Bronchus","Age 30","Age <br/>90",6.054
+"Lung and Bronchus","Age 30","Age <br/>95",6.292
+"Lung and Bronchus","Age 30","Age <br/>95+",6.377
+"Lung and Bronchus","Age 35","Age <br/>5",
+"Lung and Bronchus","Age 35","Age <br/>10",
+"Lung and Bronchus","Age 35","Age <br/>15",
+"Lung and Bronchus","Age 35","Age <br/>20",
+"Lung and Bronchus","Age 35","Age <br/>25",
+"Lung and Bronchus","Age 35","Age <br/>30",
+"Lung and Bronchus","Age 35","Age <br/>35",
+"Lung and Bronchus","Age 35","Age <br/>40",0.014
+"Lung and Bronchus","Age 35","Age <br/>45",0.048
+"Lung and Bronchus","Age 35","Age <br/>50",0.136
+"Lung and Bronchus","Age 35","Age <br/>55",0.340
+"Lung and Bronchus","Age 35","Age <br/>60",0.714
+"Lung and Bronchus","Age 35","Age <br/>65",1.292
+"Lung and Bronchus","Age 35","Age <br/>70",2.156
+"Lung and Bronchus","Age 35","Age <br/>75",3.286
+"Lung and Bronchus","Age 35","Age <br/>80",4.478
+"Lung and Bronchus","Age 35","Age <br/>85",5.473
+"Lung and Bronchus","Age 35","Age <br/>90",6.082
+"Lung and Bronchus","Age 35","Age <br/>95",6.321
+"Lung and Bronchus","Age 35","Age <br/>95+",6.406
+"Lung and Bronchus","Age 40","Age <br/>5",
+"Lung and Bronchus","Age 40","Age <br/>10",
+"Lung and Bronchus","Age 40","Age <br/>15",
+"Lung and Bronchus","Age 40","Age <br/>20",
+"Lung and Bronchus","Age 40","Age <br/>25",
+"Lung and Bronchus","Age 40","Age <br/>30",
+"Lung and Bronchus","Age 40","Age <br/>35",
+"Lung and Bronchus","Age 40","Age <br/>40",
+"Lung and Bronchus","Age 40","Age <br/>45",0.034
+"Lung and Bronchus","Age 40","Age <br/>50",0.122
+"Lung and Bronchus","Age 40","Age <br/>55",0.328
+"Lung and Bronchus","Age 40","Age <br/>60",0.705
+"Lung and Bronchus","Age 40","Age <br/>65",1.286
+"Lung and Bronchus","Age 40","Age <br/>70",2.157
+"Lung and Bronchus","Age 40","Age <br/>75",3.295
+"Lung and Bronchus","Age 40","Age <br/>80",4.495
+"Lung and Bronchus","Age 40","Age <br/>85",5.498
+"Lung and Bronchus","Age 40","Age <br/>90",6.110
+"Lung and Bronchus","Age 40","Age <br/>95",6.351
+"Lung and Bronchus","Age 40","Age <br/>95+",6.437
 "Lung and Bronchus","Age 45","Age <br/>5",
 "Lung and Bronchus","Age 45","Age <br/>10",
 "Lung and Bronchus","Age 45","Age <br/>15",
@@ -400,3 +400,4 @@
 "Lung and Bronchus","Age 95","Age <br/>90",
 "Lung and Bronchus","Age 95","Age <br/>95",
 "Lung and Bronchus","Age 95","Age <br/>95+",0.739
+
