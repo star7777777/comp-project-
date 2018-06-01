@@ -9,5 +9,5 @@ hit<-hist(dattbl$Rate,
      col="red"
 )
 #Creates a density plot for the data table.
-density(dattbl$Rate,adjust=.1)
+density(dattbl$Rate)
      
