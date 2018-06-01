@@ -6,9 +6,9 @@ dattbl<-read.csv(path)
 #Create 3D Scatterplot
 s3d<-scatterplot3d(dattbl[,2:4], 
               pch=18,
-              color="#999999",
+              color="#E69F00",
               xlab="Cancer Onset Age", 
-              ylab="Probablility of Dying from Cancer",
+              ylab="Probablility of Developing Cancer",
               zlab="Risk",
-              main="Probability of Dying from Cancer for Each Age Group",
+              main="Probability of Developing Cancer for Each Age Group",
               angle=45)
