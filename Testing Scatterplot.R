@@ -3,13 +3,13 @@ path<-file.choose()
 dattbl<-(read.csv(path)
          )
 
-View(dattbl)
+#View(dattbl)
 plot(
 
-  "Cancer.Free.Age","Risk",
-  col=darkblue,
+  dattbl$Survival.Interval..Years.~dattbl$Rate,
+  col="darkblue",
   pch=20,
-  main="The Probability of Developing Cancer by Age",
-  xlab="Probability of Developing Cancer by Age",
-  ylab="Risk"
+  main="Survival Time after initial cancer",
+  xlab="Survival time",
+  ylab="Rate"
 )
