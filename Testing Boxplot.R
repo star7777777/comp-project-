@@ -1,11 +1,11 @@
 #Boxplots show where clumps of data are and if any outliers exist.
 path<-file.choose()
 dattbl<-read.csv(path)
-View(dattbl)
-boxplot(Risk~Age,
+#View(dattbl)
+boxplot(Risk~Cancer.Free.Age,
         data=dattbl,
         main="Risk of Developing Cancer",
-        xlab="Age of originally getting Cancer", #please retitle
+        xlab="Cancer Onset Age",
         ylab="Risk",
-        col="darkblue"
+        col="lightblue"
 )
