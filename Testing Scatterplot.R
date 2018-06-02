@@ -4,10 +4,10 @@ dattbl<-(read.csv(path)
          )
 
 #View(dattbl)
-plot(dattbl$Year~dattbl$Rate,
-  col="darkorange",
+plot(dattbl$Survival.Interval..Years.~dattbl$Rate,
+  col="darkred",
   pch=20,
-  main="Mortality Rates",
+  main="Risk of Developing ",
   xlab="Year",
   ylab="Mortality Rate"
 )
