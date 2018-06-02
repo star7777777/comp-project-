@@ -4,10 +4,11 @@ dattbl<-(read.csv(path)
          )
 
 #View(dattbl)
-plot(dattbl$Survival.Interval..Years.~dattbl$Rate,
+plot(dattbl$Rate~dattbl$Year,
   col="darkred",
   pch=20,
-  main="Risk of Developing ",
+  main="Mortality Rate",
   xlab="Year",
   ylab="Mortality Rate"
 )
+abline(lm(dattbl$Rate~dattbl$Year))
