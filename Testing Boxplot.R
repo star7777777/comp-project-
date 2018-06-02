@@ -2,11 +2,11 @@
 path<-file.choose()
 dattbl<-read.csv(path)
 #View(dattbl)
-boxplot(dattbl$Rate,
+boxplot(dattbl$Risk,
         data=dattbl,
-        main="Survival Time",
+        main="Probability of Dying from Cancer",
 #        xlab="",
-        ylab="Survival Interval (Years)",
+        ylab="Probability of Dying",
         col="lightblue"
 )
 
