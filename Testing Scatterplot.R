@@ -4,12 +4,10 @@ dattbl<-(read.csv(path)
          )
 
 #View(dattbl)
-plot(
-
-  dattbl$Survival.Interval..Years.~dattbl$Rate,
-  col="darkblue",
+plot(dattbl$Year~dattbl$Rate,
+  col="darkorange",
   pch=20,
-  main="Survival Time after initial cancer",
-  xlab="Survival time",
-  ylab="Rate"
+  main="Mortality Rates",
+  xlab="Year",
+  ylab="Mortality Rate"
 )
