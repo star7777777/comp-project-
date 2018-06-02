@@ -5,11 +5,11 @@
 path<-file.choose()
 dattbl<-read.csv(path)
 hit<-hist(dattbl$ Risk,
-     main="Histogram of Probablility of Dying From Cancer",
-     xlab="Probablility of Dying From Cancer",
+     main="Histogram of Probablility of Developing Cancer",
+     xlab="Probablility of Developing Cancer",
      col="red")
 #Creates a density plot for the data table.
 plot(density(dattbl$Risk, na.rm=TRUE),
-     main="Density Plot of Probablility of Dying From Cancer",
-     xlab="Probablility of Dying From Cancer")
+     main="Density Plot of Probablility of Developing Cancer",
+     xlab="Probablility of Developing Cancer")
      
